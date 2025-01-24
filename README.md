@@ -1,0 +1,1 @@
+A website showcasing recipes from various cultures. By the end of its building, I should be more familiar with images, links, lists and other HTML elements as well as the use of Git for source control.
